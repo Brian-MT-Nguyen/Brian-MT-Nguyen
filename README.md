@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hey! My name is Brian Nguyen and I'm a student at UC Santa Cruz majoring in Computer Science.
-🌱 I'm currently learning and am interested in computer science, programming, and game development.
-📫 How to reach me: Contact or reach me at bnguy118@ucsc.edu.
+👋 Hey! My name is Brian Nguyen and I'm a student at UC Santa Cruz majoring in Computer Science.<br />
+🌱 I'm currently learning and am interested in computer science, programming, and game development.<br />
+📫 How to reach me: Contact or reach me at bnguy118@ucsc.edu.<br />
 😄 Pronouns: He/Him
