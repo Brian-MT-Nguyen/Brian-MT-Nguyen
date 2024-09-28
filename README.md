@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 * 👋 Hey! My name is Brian Nguyen and I'm an M.S student at UC San Diego majoring in Computer Science.<br />
-* 🌱 I'm currently learning and am interested in Machine Learning, AI, and Software Engineering.<br />
+* 🌱 I'm currently learning and am interested in Machine Learning, AI, Software Engineering, and Game Development.<br />
 * 📫 How to reach me: Contact or reach me at bmn004@ucsd.edu.<br />
 * 😄 Pronouns: He/Him
